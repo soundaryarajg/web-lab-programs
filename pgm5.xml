@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="pgm5.css"?>
+<student_information>
+<h1>STUDENT DESCRIPTION</h1>
+<student>
+<USN>USN:1ce17cs126</USN>
+<name>NAME:soundarya raj g</name>
+<college>COLLEGE:CEC</college>
+<branch>BRANCH:CS</branch>
+<year>YEAR:2021</year>
+<email>email:soundaryachinnu1@gmail.com</email>
+</student>
+</student_information>
